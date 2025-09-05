@@ -1,6 +1,6 @@
-#degenerative AI
+# degenerative AI
 it can do some basic stuff
-#usage
+# usage
 you will need gfortran or another fortran compiler
 first compile it by typing:
 gfortran degenerative-ai.f95
